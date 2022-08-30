@@ -30,3 +30,7 @@ Recentemente, iniciei meus estudos com Java.
     <a href="https://instagram.com/yasmimllemos" target="_blank"><img height="30" width="140" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+ 
+ <div>
+    <img align="right" alt="Quez-pic" height="100" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_La2awZod.png">
+  </div>
